@@ -34,8 +34,8 @@ $new-font-size-map: (
 
     $theme-colors: map-merge($theme-colors, $new-theme-colors);
 
-    $input-btn-padding-y: 2.5rem;
-    $input-btn-padding-x: 0.75rem;
+    $btn-padding-x: 2.5rem;
+    $btn-padding-y: 0.75rem;
 
 
     @import 'bootstrap';
